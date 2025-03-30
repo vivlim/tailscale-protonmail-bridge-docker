@@ -1,0 +1,3 @@
+[submodule "protonmail-bridge-docker"]
+	path = protonmail-bridge-docker
+	url = https://github.com/shenxn/protonmail-bridge-docker.git

@@ -1,0 +1,10 @@
+{
+  "TCP": {
+    "1025": {
+      "TCPForward": "pbridge:25"
+    },
+    "1143": {
+      "TCPForward": "pbridge:143"
+    },
+  }
+}
